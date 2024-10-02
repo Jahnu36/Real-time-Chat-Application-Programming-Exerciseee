@@ -1,3 +1,56 @@
+# **Exercise 1**
+## **Behavioural Design**
+## **1. WeatherStation**
+**Description**
+Simulates weather changes over time, providing outputs such as temperature and humidity for each simulated time step.
+**Sample Output**:
+
+![WhatsApp Image 2024-10-02 at 19 17 58_f46018eb](https://github.com/user-attachments/assets/a112c21d-e5bb-43a7-9687-4338ce9286f8)
+
+## **2. NavigationDemo**
+**Description**
+Calculates different routes from New York to Los Angeles, including the fastest, shortest, and a route avoiding tolls.
+
+**Sample Output**
+
+![WhatsApp Image 2024-10-02 at 19 18 14_a4df9673](https://github.com/user-attachments/assets/b8ea1b00-82e8-4cca-a821-251031567846)
+
+
+##  Structural Design
+
+## **1. AdapterPatternDemo**
+**Description**
+Demonstrates the Adapter Design Pattern by playing various media types and showing adaptability with unsupported formats.
+**Sample Output**
+![WhatsApp Image 2024-10-02 at 19 19 19_79f4ddc6](https://github.com/user-attachments/assets/52805f82-6534-46e4-9096-c768482e4583)
+
+
+## **2. CoffeeShop**
+**Description**
+Interactive Java application simulating a coffee shop order process where the user can add different coffee customizations and see the updated order summary after each addition, concluding with a final order summary.
+**Sample Output**
+![WhatsApp Image 2024-10-02 at 19 29 41_715ecc10](https://github.com/user-attachments/assets/e863e32f-eaa0-409d-8f9f-d22831856a10)
+
+## Creational Design
+## **1. DocumentDemo**
+**Description**
+Demonstrates the creation of different types of documents (PDF, DOC, TXT) and confirms their creation.
+
+**Sample Output**
+
+![WhatsApp Image 2024-10-02 at 19 18 30_01d76229](https://github.com/user-attachments/assets/c3afb19e-d50f-46f1-8034-988656959c6e)
+
+## **2. LoggerDemo**
+**Description**
+Demonstrates logging various messages to a log file, providing a simple example of using logging in Java applications.
+
+**Sample Output**
+![WhatsApp Image 2024-10-02 at 19 18 52_4614da05](https://github.com/user-attachments/assets/5721d343-c18b-4e75-8767-d2d89ae78551)
+
+
+
+
+# Exercise 2
 # **Chat Application - Real-Time Console Chat**
 
 ## **Overview**
